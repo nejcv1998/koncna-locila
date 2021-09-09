@@ -9,7 +9,7 @@ https://www.clarin.si/repository/xmlui/handle/11356/1397 in ga dali v mapo /slob
 
 Podatki za validacijo so v datoteki `datasetValid.txt` in za testiranje v datoteki `datasetTest.txt`.
 Podatke za učenje smo razdelili na 2 datoteki `datasetTrainPart1.txt` in `datasetTrainPart2.txt` ker GitHub ne podpira datotek večjih od 100 MB.
-Datoteku je potrebno združiti v datoteko `datasetTrain.txt`, saj je uporabljena v kodi.
+Datoteki je potrebno združiti v datoteko `datasetTrain.txt`, saj je uporabljena v kodi.
 Podatki so že pripravljeni za uporabo pri učenju.
 
 Pri obeh modelih smo uporabili verzijo za knjižnici Transformers in Pytrorch. 
